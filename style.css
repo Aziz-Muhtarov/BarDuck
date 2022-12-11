@@ -227,26 +227,7 @@ a {
     border-radius: 18px;
     object-fit: cover;
     margin: 0 25px 0 25px;
-    overflow: hidden;
-   
-    -webkit-box-shadow: 5px 5px 5px #111;
-            box-shadow: 5px 5px 5px #111;
-            -webkit-transition: all 1s ease;
-            -moz-transition: all 1s ease;
-              -o-transition: all 1s ease;
-             -ms-transition: all 1s ease;
-                 transition: all 1s ease;
 }
-
-.galery__img img:hover {
-    width: 700px;
-    height: 700px;
-  }
-
-
-
-
-
 
 
 .galery__img__2 {
